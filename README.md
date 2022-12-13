@@ -1,0 +1,1 @@
+# Exercicio-II-Treinar-funcoes-e-uso-de-Numpy
